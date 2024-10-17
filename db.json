@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "id": "808e",
+      "name": "Teste",
+      "budget": "20000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Financeiro"
+    },
+    {
+      "id": "4",
+      "name": "Design"
+    }
+  ]
+}
